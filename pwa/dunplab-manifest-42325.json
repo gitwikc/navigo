@@ -76,5 +76,13 @@
 			"sizes": "16x16"
 		}
 	],
-	"prefer_related_applications": "false"
+	"shortcuts": [
+		{
+			"name": "Space",
+			"description": "View space pics",
+			"url": "/#space",
+			"icons": [{"src": "./space-96px.png", "type": "image/png", "sizes": "96x96"}],
+			"purpose": "any"
+		}
+	]
 }
